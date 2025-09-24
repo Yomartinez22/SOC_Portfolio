@@ -12,3 +12,7 @@ Deliverables checklist()
  []  Web attack detection writeup (logs, query, and alert).
 
  []  ATT&CK mapping for techniques observed.
+
+ Challenges:
+ Phishing Analysis 1(BLTO) ->  https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce
+ Phishing Analysis 1(BLTO) ->  https://blueteamlabs.online/home/challenge/phishing-analysis-2-a1091574b8
