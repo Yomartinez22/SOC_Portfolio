@@ -56,3 +56,9 @@ Method: Follow a structured SOC Analyst Learning Path with guided modules and la
 - ATT&CK Navigator — step‑by‑step layer creation and export.
 - SIEM — core concepts and 2025 capability checklist.
 - SOC interviews — checklists and preparation.
+
+## Free Path — Month 1
+- [] BTLO — Phishing Analysis 1 (writeup)
+- [] THM — SOC Role in Blue Team (notes)
+- [] THM — Basic Logs room (notes + 5 queries)
+- [] ATT&CK layer — 10 técnicas con notas de logs
