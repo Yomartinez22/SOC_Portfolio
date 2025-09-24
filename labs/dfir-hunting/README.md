@@ -12,3 +12,6 @@ Deliverables checklist
  []  One hunting exercise (hypothesis, queries, results, improvements).
 
  []  Updated detection rule or playbook based on findings.
+
+ Challenges:
+ Dfir-essentials (TryHackMe) ->  https://tryhackme.com/module/dfir-essentials
