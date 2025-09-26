@@ -59,6 +59,6 @@ Method: Follow a structured SOC Analyst Learning Path with guided modules and la
 
 ## Free Path — Month 1
 - [] BTLO — Phishing Analysis 1 (writeup)
-- [] THM — SOC Role in Blue Team (notes)
+- [x] THM — SOC Role in Blue Team (notes)
 - [] THM — Basic Logs room (notes + 5 queries)
 - [] ATT&CK layer — 10 técnicas con notas de logs
