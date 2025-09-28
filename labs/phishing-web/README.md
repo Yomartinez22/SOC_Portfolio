@@ -16,9 +16,11 @@ Deliverables checklist()
  Challenges:
  A user has received a phishing email and forwarded it to the SOC. Can you investigate the email and attachment to collect useful artifacts?
  https://blueteamlabs.online/home/challenge/16
+ 
  <img width="574" height="338" alt="image" src="https://github.com/user-attachments/assets/5d856fda-58de-4fb6-a679-e3bcbf702182" />
  1. Who is the primary recipient of this email ?
  <img width="1041" height="623" alt="image" src="https://github.com/user-attachments/assets/7a1244ca-e2bd-40ef-8ea7-348db6f872ed" />
+ 
  Answer : kinnar1975@yahoo.co.uk
 
 2. What is the subject of this email ?
